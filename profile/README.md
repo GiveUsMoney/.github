@@ -14,4 +14,4 @@
 - 일정보다는 **개발자**를 위합니다!
 - 코드가 친절하고 PM이 깔끔해요. (?)
 
-더 알아보고 싶으시다고요? [여기]()에서 확인하세요!
+더 알아보고 싶으시다고요? [여기](https://github.com/GiveUsMoney/TEAM/blob/master/recruitment.md)에서 확인하세요!
