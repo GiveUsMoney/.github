@@ -1,3 +1,12 @@
+---
+name: PR 추가
+about: PR을 추가합니다
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 > #<이슈 번호> 참고
 
 **PR 설명**
