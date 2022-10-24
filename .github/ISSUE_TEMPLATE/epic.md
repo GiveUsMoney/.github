@@ -12,6 +12,3 @@ assignees: ''
 - [ ] Task 1
 - [ ] Task 2
     - [ ] Task 2-1
-
-**레퍼런스**
-- http://www.example.com
